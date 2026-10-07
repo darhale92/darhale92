@@ -1,5 +1,8 @@
-## Hi there 👋
+# Darren Hale
 
+Software engineer with 9 years of professional game development experience across 20+ shipped titles.
+
+Experienced with Unity, C#, JavaScript, gameplay systems, debugging, performance optimization, and cross-disciplinary game development.
 <!--
 **darhale92/darhale92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
